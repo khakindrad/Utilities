@@ -20,6 +20,8 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution 
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DirectorySerializor", "src\DirectorySerializor\DirectorySerializor.csproj", "{B856FF8C-2413-4F19-956F-99D74068D0CC}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Common", "src\Common\Common.csproj", "{CCD24610-B098-4A79-968A-680684E1379B}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -30,12 +32,16 @@ Global
 		{B856FF8C-2413-4F19-956F-99D74068D0CC}.Debug|x64.Build.0 = Debug|x64
 		{B856FF8C-2413-4F19-956F-99D74068D0CC}.Release|x64.ActiveCfg = Release|x64
 		{B856FF8C-2413-4F19-956F-99D74068D0CC}.Release|x64.Build.0 = Release|x64
+		{CCD24610-B098-4A79-968A-680684E1379B}.Debug|x64.ActiveCfg = Debug|x64
+		{CCD24610-B098-4A79-968A-680684E1379B}.Debug|x64.Build.0 = Debug|x64
+		{CCD24610-B098-4A79-968A-680684E1379B}.Release|x64.ActiveCfg = Release|x64
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(NestedProjects) = preSolution
 		{B856FF8C-2413-4F19-956F-99D74068D0CC} = {B7AB62FA-CAE4-4667-98F9-C5D4F9971D30}
+		{CCD24610-B098-4A79-968A-680684E1379B} = {B7AB62FA-CAE4-4667-98F9-C5D4F9971D30}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {A88FE35B-1BEC-4951-B779-CAB155F5DC79}

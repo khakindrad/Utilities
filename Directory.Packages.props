@@ -3,6 +3,14 @@
     <PackageVersion Include="coverlet.collector" Version="6.0.0" />
     <PackageVersion Include="FluentAssertions.Analyzers" Version="0.25.0" />
     <PackageVersion Include="Microsoft.Extensions.Configuration.Binder" Version="7.0.4" />
+    <PackageVersion Include="Microsoft.Extensions.DependencyInjection" Version="7.0.0" />
+    <PackageVersion Include="Microsoft.Extensions.Logging.Abstractions" Version="7.0.1" />
+    <PackageVersion Include="Serilog.Extensions.Logging" Version="7.0.0" />
+    <PackageVersion Include="Serilog.Formatting.Compact" Version="1.1.0" />
+    <PackageVersion Include="Serilog.Settings.AppSettings" Version="2.2.2" />
+    <PackageVersion Include="Serilog.Settings.Configuration" Version="7.0.1" />
+    <PackageVersion Include="Serilog.Sinks.Console" Version="4.1.0" />
+    <PackageVersion Include="Serilog.Sinks.File" Version="5.0.0" />
     <PackageVersion Include="xunit.analyzers" Version="1.4.0" />
     <PackageVersion Include="xunit.runner.visualstudio" Version="2.5.3" />
     <PackageVersion Include="Microsoft.NET.Test.Sdk" Version="17.7.2" />
